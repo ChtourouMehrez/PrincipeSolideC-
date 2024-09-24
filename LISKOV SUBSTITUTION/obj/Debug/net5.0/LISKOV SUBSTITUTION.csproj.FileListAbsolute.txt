@@ -1,0 +1,11 @@
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\bin\Debug\net5.0\LISKOV SUBSTITUTION.deps.json
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\bin\Debug\net5.0\LISKOV SUBSTITUTION.dll
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\bin\Debug\net5.0\ref\LISKOV SUBSTITUTION.dll
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\bin\Debug\net5.0\LISKOV SUBSTITUTION.pdb
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\obj\Debug\net5.0\LISKOV SUBSTITUTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\obj\Debug\net5.0\LISKOV SUBSTITUTION.AssemblyInfoInputs.cache
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\obj\Debug\net5.0\LISKOV SUBSTITUTION.AssemblyInfo.cs
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\obj\Debug\net5.0\LISKOV SUBSTITUTION.csproj.CoreCompileInputs.cache
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\obj\Debug\net5.0\LISKOV SUBSTITUTION.dll
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\obj\Debug\net5.0\ref\LISKOV SUBSTITUTION.dll
+D:\Principe Solide C#\PrincipeSolide\LISKOV SUBSTITUTION\obj\Debug\net5.0\LISKOV SUBSTITUTION.pdb

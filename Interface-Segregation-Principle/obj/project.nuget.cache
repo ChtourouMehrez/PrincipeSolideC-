@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMYIvaUcR1Ic4cCpoDVEYTEUt55SNZqtZ0O0eaP8wOznmBiT4+5Wt/TEAARf+rvxIjlEQmaPyh2EoIuu9qnnZg==",
+  "success": true,
+  "projectFilePath": "D:\\Principe Solide C#\\PrincipeSolide\\Interface-Segregation-Principle\\Interface-Segregation-Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

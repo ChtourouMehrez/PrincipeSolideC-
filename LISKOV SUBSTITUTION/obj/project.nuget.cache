@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vuiNK3zB+gBvSzTUHV5bSpF73dl+2Bv7akdyjr9UOLpDg+iHalX5NAhJ2DAz8r/6xglLEHRLPbIjq7yy1oV3w==",
+  "success": true,
+  "projectFilePath": "D:\\Principe Solide C#\\PrincipeSolide\\LISKOV SUBSTITUTION\\LISKOV SUBSTITUTION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

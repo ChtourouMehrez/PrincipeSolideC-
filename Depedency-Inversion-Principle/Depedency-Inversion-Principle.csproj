@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Depedency_Inversion_Principle</RootNamespace>
+  </PropertyGroup>
+
+</Project>

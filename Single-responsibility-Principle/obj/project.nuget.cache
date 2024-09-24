@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wpAJinK07rF25JfURj/c55b8XprFWaHzR3eyCgzlOmks+vDxe6/HqblV2S8oaUw0Mz5A13Fr9qoGJ3TGUS1zg==",
+  "success": true,
+  "projectFilePath": "D:\\Principe Solide C#\\PrincipeSolide\\Single-responsibility-Principle\\Single-responsibility-Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

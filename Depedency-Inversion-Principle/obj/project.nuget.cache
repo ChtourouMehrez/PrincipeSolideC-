@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgzrXhI/PBvqFcpTi+xc26ew2RLJcjoHGwUoZBnWvy+9L5FXpMiTtnZfa1i0/4g/VpFuCPTkztSfghTnPyNhyA==",
+  "success": true,
+  "projectFilePath": "D:\\Principe Solide C#\\PrincipeSolide\\Depedency-Inversion-Principle\\Depedency-Inversion-Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

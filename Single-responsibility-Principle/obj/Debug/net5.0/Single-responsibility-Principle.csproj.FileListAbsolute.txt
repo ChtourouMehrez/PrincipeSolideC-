@@ -1,0 +1,12 @@
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\bin\Debug\net5.0\Single-responsibility-Principle.deps.json
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\bin\Debug\net5.0\Single-responsibility-Principle.dll
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\bin\Debug\net5.0\ref\Single-responsibility-Principle.dll
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\bin\Debug\net5.0\Single-responsibility-Principle.pdb
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\Single-responsibility-Principle.csproj.AssemblyReference.cache
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\Single-responsibility-Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\Single-responsibility-Principle.AssemblyInfoInputs.cache
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\Single-responsibility-Principle.AssemblyInfo.cs
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\Single-responsibility-Principle.csproj.CoreCompileInputs.cache
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\Single-responsibility-Principle.dll
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\ref\Single-responsibility-Principle.dll
+D:\Principe Solide C#\PrincipeSolide\Single-responsibility-Principle\obj\Debug\net5.0\Single-responsibility-Principle.pdb
